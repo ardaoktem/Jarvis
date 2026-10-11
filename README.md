@@ -5,7 +5,7 @@ Gemini (ücretsiz katman) + Ollama (yerel) karma beyin · animasyonlu arayüz ·
 ## Kurulum (Windows 10/11)
 
 ### Kolay yol: tek dosya
-1. **[Jarvis_Kur.bat'ı indir](https://github.com/ardaoktem/Jarvis/raw/main/Jarvis_Kur.bat)** ve çift tıkla.
+1. **[Jarvis_Kur.bat'ı indir](https://github.com/ardaoktem/Jarvis/releases/latest/download/Jarvis_Kur.bat)** ve çift tıkla.
 2. O kadar. Jarvis'i indirir, Python yoksa kurar (3.12, yönetici izni gerekmez), kütüphaneleri kurar, NVIDIA ekran kartın varsa GPU
    ses tanımayı ekler, masaüstüne **Jarvis** kısayolu koyar ve açar. Kurulum yeri: `C:\Users\<sen>\Jarvis`.
 3. İlk açılışta ücretsiz **Gemini API anahtarını** sorar: [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
