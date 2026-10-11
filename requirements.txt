@@ -1,0 +1,16 @@
+google-genai
+faster-whisper
+sounddevice
+numpy
+edge-tts
+pygame
+spotipy
+pyautogui
+python-dotenv
+pygetwindow
+pyperclip
+customtkinter
+pystray
+pillow
+mss
+uiautomation
