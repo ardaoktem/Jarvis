@@ -1,0 +1,21 @@
+# Gizli anahtarlar ve kişisel ayarlar - ASLA yükleme
+.env
+.env.*
+!.env.example
+.spotify_cache
+jarvis_settings.json
+usage.json
+jarvis_log.txt
+jarvis_hata.txt
+smoke_sonuc.txt
+ses_test_sonuc.txt
+ses_onbellek/
+ses_ornekleri/
+# Python / derleme
+venv/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
